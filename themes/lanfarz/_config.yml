@@ -1,0 +1,26 @@
+menu:
+  Home: /
+  Archives: /archives
+
+sidebar: right
+
+widgets:
+- search
+- aboutme
+- suportme
+- category
+- recent_posts
+- tag
+- tagcloud
+- webcount
+
+# Duoshuo
+duoshuo_shortname: colin
+
+fancybox: true
+
+google_analytics:
+rss: 
+google_site_verification: 
+baidu_site_verification: 
+icon: 
