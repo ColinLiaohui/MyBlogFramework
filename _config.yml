@@ -4,8 +4,8 @@
 
 # Site
 title: colin
-subtitle:
-description:
+subtitle: For you i will become more excelient. Work hard，just for a better life.
+description: iOS开发 iOS知识分享
 author: liaohui
 language: zh-CN
 timezone:
@@ -32,6 +32,15 @@ rss:
 google_site_verification: 
 baidu_site_verification: 
 icon: 
+
+##添加站点地图
+#npm install hexo-generator-sitemap --save
+#npm install hexo-generator-baidu-sitemap --save
+sitemap: 
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

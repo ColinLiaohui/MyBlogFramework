@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fancybox/
+
+Sitemap: http://www.hunao.info/sitemap.xml
+Sitemap: http://www.hunao.info/baidusitemap.xml
