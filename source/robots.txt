@@ -5,5 +5,5 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /fancybox/
 
-Sitemap: http://www.hunao.info/sitemap.xml
-Sitemap: http://www.hunao.info/baidusitemap.xml
+Sitemap: http://liaohui.win/sitemap.xml
+Sitemap: http://liaohui.win/baidusitemap.xml
